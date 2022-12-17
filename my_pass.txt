@@ -1,0 +1,1 @@
+WEBSITE: example.com | Username/Email:test@gmail.com | Password: Example1234
